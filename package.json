@@ -1,0 +1,33 @@
+{
+  "name": "hn-news-iflux",
+  "version": "1.0.0",
+  "description": "hack news iflux demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hufeng/hn-news-iflux.git"
+  },
+  "keywords": [
+    "iflux",
+    "hack",
+    "news",
+    "react"
+  ],
+  "author": "hufeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hufeng/hn-news-iflux/issues"
+  },
+  "homepage": "https://github.com/hufeng/hn-news-iflux",
+  "dependencies": {
+    "iflux": "^1.0.7",
+    "immutable": "^3.6.4",
+    "react": "^0.13.1"
+  },
+  "devDependencies": {
+    "jsx-loader": "^0.12.2"
+  }
+}
